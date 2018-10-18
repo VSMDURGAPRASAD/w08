@@ -1,1 +1,2 @@
 # w08
+I am new to the NorthWestMissouriStateUniversity.I have been enrolled to AppliedComputerScience Course.I have a Database Systems,WEbapps,ObjectOrientedProgramming courses  in first Semetsr.We are learning more WebCourses through WebApps Section .Ajax is a client-side script that communicates to and from a server/database without the need for a postback or a complete page refresh.
